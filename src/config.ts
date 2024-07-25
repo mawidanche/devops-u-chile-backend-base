@@ -1,3 +1,3 @@
 export const configuration = {
-    username: 'default'
+    username: 'Raul Alexander Riquelme Guajardo'
 }
